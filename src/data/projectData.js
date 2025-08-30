@@ -3,12 +3,12 @@ export const projects = [
   {
     id: 1,
     title: {
-      en: "",
-      es: "",
+      en: "pinksite",
+      es: "pinksite",
     },
     description: {
-      en: "",
-      es: "",
+      en: "livepink",
+      es: "vivarosa",
     },
     image: "",
     liveSite: "",
