@@ -11,7 +11,7 @@ export const projects = [
       es: "",
     },
     image: "",
-    liveSite: "",
+    liveSite: "https://github.com/Limarshideout/new.git",
     githubRepo: "",
   },
   // Add more projects here...
