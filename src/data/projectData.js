@@ -10,7 +10,7 @@ export const projects = [
       en: "",
       es: "",
     },
-    image: "",
+    image: "https://github.com/Limarshideout/new.git",
     liveSite: "https://github.com/Limarshideout/new.git",
     githubRepo: "",
   },
